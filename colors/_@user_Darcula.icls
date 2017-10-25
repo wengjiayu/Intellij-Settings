@@ -3,7 +3,7 @@
     <property name="created">2017-10-25T15:17:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2017-10-25T17:00:33</property>
+    <property name="modified">2017-10-25T17:27:38</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -15,7 +15,7 @@
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4f9ae1" />
+        <option name="FOREGROUND" value="4f9fe6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -28,6 +28,11 @@
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="7cb0d9" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="70a3cc" />
       </value>
     </option>
     <option name="LAMBDA_PARAMETER_ATTRIBUTES">
