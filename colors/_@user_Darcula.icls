@@ -4,7 +4,7 @@
     <property name="created">2017-10-25T15:17:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2017-10-25T19:16:49</property>
+    <property name="modified">2017-11-04T11:53:27</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -21,7 +21,7 @@
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a89c90" />
+        <option name="FOREGROUND" value="b4a89a" />
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -38,18 +38,19 @@
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="abbdd5" />
+        <option name="FOREGROUND" value="e3e7ee" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="abbdd5" />
+        <option name="FOREGROUND" value="e3e7ee" />
+        <option name="BACKGROUND" value="3e3e3e" />
       </value>
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff7f3e" />
+        <option name="FOREGROUND" value="ffa662" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -62,9 +63,15 @@
         <option name="FOREGROUND" value="70a3cc" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ba4058" />
+      </value>
+    </option>
     <option name="JAVA_STRING">
       <value>
-        <option name="FOREGROUND" value="5a754c" />
+        <option name="FOREGROUND" value="50885f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LAMBDA_PARAMETER_ATTRIBUTES">
@@ -75,6 +82,12 @@
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="98a9be" />
+      </value>
+    </option>
+    <option name="METHOD_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b2df53" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PARAMETER_ATTRIBUTES">
@@ -90,7 +103,7 @@
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="aa5c64" />
+        <option name="FOREGROUND" value="9fb2b6" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
