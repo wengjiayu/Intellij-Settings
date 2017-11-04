@@ -4,7 +4,7 @@
     <property name="created">2017-10-25T15:17:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2017-11-04T11:53:27</property>
+    <property name="modified">2017-11-04T11:56:27</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -65,7 +65,8 @@
     </option>
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ba4058" />
+        <option name="FOREGROUND" value="c9455f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JAVA_STRING">
@@ -92,7 +93,12 @@
     </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5f7ca7" />
+        <option name="FOREGROUND" value="8d9783" />
+      </value>
+    </option>
+    <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8d9783" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
